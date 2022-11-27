@@ -14,6 +14,7 @@
 <br>
 <p style="padding-left:120px">the purpose of this project is to find the degree of similarity between movies based on their Descriptions available on IMDb and Wikipedia.
 </p>
+
 # 2. Import data
 
 <br>
