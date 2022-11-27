@@ -13,7 +13,7 @@
 #  1. Introduction
 <br>
 <p style="padding-left:120px">the purpose of this project is to find the degree of similarity between movies based on their Descriptions available on IMDb and Wikipedia.</p>
-#  2. Import data
+# 2. Import data
 <br>
 <p style="padding-left:120px">we import data from csv file into a dataframe</p>
 ### combine wiki and imdb plots <br>
@@ -50,9 +50,9 @@ so we wil combine both columns<p/>
     <br> Clustering is the method of grouping together a number of items that presents similar properties
      <br>we will cluster our dataset by the genre of the movies
     <img src="https://assets.datacamp.com/production/project_648/img/bar_clusters.png" alt="bar graph of clusters">
-    </p>
+</p>
     
-    # 5. Calculate similarity distance
+# 5. Calculate similarity distance
 <div style="padding-left:120px;padding-right:120px;">
     Similarity distance is = <p style="font-weight:bold"> 1 - cosine similarity angle </p>
     <br> if the movies' plots are similar, the cosine of their angle would be 1 and then the distance between them would be 1 - 1 = 0.
