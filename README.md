@@ -64,23 +64,22 @@ so we wil combine both columns
     To determine how closely one movie is related to the other , we can use clustering techniques.
     <br> Clustering is the method of grouping together a number of items that presents similar properties
      <br>we will cluster our dataset by the genre of the movies
-    <img src="https://assets.datacamp.com/production/project_648/img/bar_clusters.png" alt="bar graph of clusters">
 </p>
     
-# 5. Calculate similarity distance
+# 6. Calculate similarity distance
 <div style="padding-left:120px;padding-right:120px;">
     Similarity distance is = <p style="font-weight:bold"> 1 - cosine similarity angle </p>
     <br> if the movies' plots are similar, the cosine of their angle would be 1 and then the distance between them would be 1 - 1 = 0.
      <br>the more the movies are similar , the more the distance is closer to 0
 </div>
-# 6. Dendograms
+
+# 7. Dendograms
 <br>
 <div style="padding-left:120px;padding-right:120px;">
     We will plot a dendrogram of the movies whose similarity measure will be given by the similarity distance
 </div>
 
-# 7. Conclusion 
-<br>
+# 8. Conclusion 
 <div style="padding-left:120px;padding-right:120px;">
     <br>we have quantified the similarity of movies based on their plot summaries available on IMDb and Wikipedia, 
     <br>we separated them into clusters.
