@@ -69,4 +69,4 @@ so we wil combine both columns<p/>
     <br>we have quantified the similarity of movies based on their plot summaries available on IMDb and Wikipedia, 
     <br>we separated them into clusters.
    <br> We created a dendrogram to represent how closely the movies are related to each other.
-    </div>
+</div>
